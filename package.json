@@ -1,7 +1,7 @@
 {
-  "name": "@taazkareem/clickup-mcp-server",
-  "version": "0.4.1",
-  "description": "ClickUp MCP Server - Integrate ClickUp tasks with AI through Model Context Protocol",
+  "name": "@ahmedyoussef98/squad-clickup-mcp-server",
+  "version": "1.0.0",
+  "description": "ClickUp MCP Server - Integrate ClickUp tasks with AI through Model Context Protocol (Squad Fork)",
   "type": "module",
   "main": "build/index.js",
   "bin": {
@@ -28,18 +28,20 @@
     "project-management",
     "model-context-protocol",
     "clickup-server",
-    "clickup-mcp-server"
+    "clickup-mcp-server",
+    "free",
+    "open-source"
   ],
-  "author": "Talib Kareem",
+  "author": "Ahmed Youssef (Squad Fork)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/taazkareem/clickup-mcp-server.git"
+    "url": "https://github.com/AhmedYoussef98/Squad_clickup-mcp-server.git"
   },
   "bugs": {
-    "url": "https://github.com/taazkareem/clickup-mcp-server/issues"
+    "url": "https://github.com/AhmedYoussef98/Squad_clickup-mcp-server/issues"
   },
-  "homepage": "https://github.com/taazkareem/clickup-mcp-server#readme",
+  "homepage": "https://github.com/AhmedYoussef98/Squad_clickup-mcp-server#readme",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.4.1",
     "axios": "^1.6.7",
